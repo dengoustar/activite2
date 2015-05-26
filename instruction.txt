@@ -1,0 +1,5 @@
+Instruction a suivre afin de realiser ce projet : 
+
+1- Renseigner le fichier css dans l'html
+2- Faire en sorte que les accens francais soient prient en compte dans le code.
+3- Mettre tout le code dans le fichier css
